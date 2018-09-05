@@ -12,10 +12,6 @@
   },
   "author": "Connor Best",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/connorwbest/connorbestportfolio/issues"
-  },
-  "homepage": "https://github.com/connorwbest/connorbestportfolio#readme",
   "dependencies": {
     "node-sass": "^4.9.3"
   }
